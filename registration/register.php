@@ -19,8 +19,8 @@
   <form class="sign-up" method="post" action="register.php">
   <?php include('errors.php'); ?>
     <h1 class="sign-up-title">Sign up in seconds</h1>
-    <input type="text" class="sign-up-input" placeholder="Choose ur Username" name="username" autofocus>
-	<input type="text" class="sign-up-input" placeholder="What's ur email ID" name="email">
+    <input type="text" class="sign-up-input" placeholder="Choose your Username" name="username" autofocus>
+	<input type="text" class="sign-up-input" placeholder="What's your email ID" name="email">
     <input type="password" class="sign-up-input" placeholder="Choose a password" name="password_1">
 	<input type="password" class="sign-up-input" placeholder="Confirm your password" name="password_2">
     <input type="submit" value="Sign me up!" class="sign-up-button" name="reg_user">
