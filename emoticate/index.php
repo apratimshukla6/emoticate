@@ -77,7 +77,7 @@
         <ul>
             <li><a href="/"><div class="icon-wrap"><div class="icon home"></div></div>HOME</a></li>
             <li><a class="small" href="/about.html"><div class="icon-wrap"><div class="icon meet"></div></div>ABOUT</a></li>
-            <li><a href="http://creative-mob.com/showroom/"><div class="icon-wrap"><div class="icon what"></div></div>SHOWROOM</a></li>
+            <li><a href="https://towardsdatascience.com/journey-to-machine-learning-part-1-introductions-motivations-and-roadmap-35a438f1e126"><div class="icon-wrap"><div class="icon what"></div></div>Machine Learning</a></li>
             <li><a href="/services.html"><div class="icon-wrap"><div class="icon services"></div></div>SERVICES</a></li>
             <li><a href="/contact.html"><div class="icon-wrap"><div class="icon contact"></div></div>CONTACT</a></li>
         </ul>
@@ -171,7 +171,7 @@
 				<div class="bag2-paper">
 					<div class="inner">
 						<p class="black">We analyse the user's emotions based upon his input in the form of text,speech or image.We process the emotional tone behind a series of words, used to gain an understanding of the the attitudes, opinions and emotions expressed within an online mention.<span class="extra"></span></p>
-						<a class="button black inverted" href="http://creative-mob.com/showroom/">SHOWROOM</a>
+						<a class="button black inverted" href="https://towardsdatascience.com/journey-to-machine-learning-part-1-introductions-motivations-and-roadmap-35a438f1e126">MACHINE LEARNING</a>
 					</div>
 				</div>
 				<div class="bag2-flap"></div>
@@ -240,8 +240,8 @@
 	<ul>
 		<li class="home"><a href="/">HOME</a></li>
 		<li class="about"><a href="/about.html">ABOUT</a></li>
-		<li class="showroom"><a href="http://creative-mob.com/showroom/">SHOWROOM</a></li>
-		<li class="services"><a href="/services.html">SERVICES</a></li>
+		<li class="showroom"><a href="https://towardsdatascience.com/journey-to-machine-learning-part-1-introductions-motivations-and-roadmap-35a438f1e126">MACHINE LEARNING</a></li>
+		<li class="services"><a href="https://medium.com/@naveen.varshney29/how-do-i-create-my-first-sentimental-analysis-web-app-e4886194ce33">Sentiment Analysis</a></li>
 		<li class="contact"><a href="/contact.html">CONTACT</a></li>
 	</ul>
 	<div class="circle">
